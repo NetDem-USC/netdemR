@@ -1,0 +1,16 @@
+Package: netdemR
+Title: Tools for analysis of Twitter data
+Description: This package provides a series of functions that allow lab
+    members to to collect and analyze Twitter data, and to access the
+    datasets collected by the lab.
+Version: 0.1
+Author: Pablo Barbera <pbarbera@usc.edu>
+Maintainer: Pablo Barbera <pbarbera@usc.edu>
+Depends:
+    R (>= 3.1.1),
+    ROAuth,
+    rjson,
+    jsonlite,
+    httr
+License: GPL-2
+RoxygenNote: 5.0.1
